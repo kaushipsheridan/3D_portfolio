@@ -179,7 +179,7 @@ export const projects = [
         theme: 'btn-back-pink',
         name: '3D - Personal Portfolio Website',
         description: 'Designed and deployed my personal portfolio website using React, Three.js, and React Three Fiber, delivering an immersive 3D experience with interactive animations and modern web performance.',
-        link: 'https://github.com/kaushipsheridan/3D-Portfolio.git',
+        link: 'https://www.priyanshukaushik.tech/',
     },
     {
         iconUrl: pricewise,
